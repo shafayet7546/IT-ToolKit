@@ -7,7 +7,7 @@
 Welcome to IT-ToolKit!
 <br>
 
-This is my personal suite of lightweight Python scripts, built to automate and optimize repetive tasks in IT environments.
+This is my personal suite of lightweight Python scripts, built to automate and optimize repetitive tasks in IT environments.
 
 ### What This Repository Contains
 - Focused, easy-to-use tools that eliminate manual busywork
